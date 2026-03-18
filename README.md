@@ -1,7 +1,5 @@
 # Heart Disease Prediction (ML Mini Project)
 
-This is my mini-project on predicting cardiovascular disease risk using the `cardio_train` dataset.
-
 I tested multiple approaches (stacking, voting, deep learning, with/without SMOTE-ENN), and finally selected a leakage-safe CatBoost pipeline as the best practical model.
 
 ## Final Best Result
