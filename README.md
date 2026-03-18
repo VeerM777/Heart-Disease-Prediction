@@ -1,4 +1,4 @@
-# Heart Disease Prediction 
+# Cardiovascular Disease Prediction 
 
 I tested multiple approaches (stacking, voting, deep learning, with/without SMOTE-ENN), and finally selected a leakage-safe CatBoost pipeline as the best practical model.
 
