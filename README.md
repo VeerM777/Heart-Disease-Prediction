@@ -1,7 +1,3 @@
-Here is the simplified **README.md** using basic English and focusing strictly on a **Machine Learning (ML)** project.
-
----
-
 # Heart Disease Prediction Project
 
 ### 🌟 What this project does
